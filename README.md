@@ -155,12 +155,14 @@ predict(w1,w2,test)
  **OUTPUT** :
 
  **Plt.plot(losses)** :
+ 
+![img1](https://user-images.githubusercontent.com/93427534/204851727-e1510f6b-3054-4aa0-9aa8-067195ac3801.png)
 
- ![img](img1.png)
 
  **Input and corresponding output of XOR Gate** :
 
- ![img](img2.png)
+
+![img2](https://user-images.githubusercontent.com/93427534/204851751-f5ddad85-78fe-490c-b8ef-8acf9a3cfa2c.png)
 
 **RESULT** :
 
